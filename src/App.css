@@ -36,8 +36,12 @@ button:hover{
   opacity: 1;
 }
 
-.complete{
-  background-color: ##1B3419;
+.Complete{
+  background-color: #1B3419;
+}
+.Remove{
+  
+  background-color: #34191b;
 }
 
 .todo-form{
